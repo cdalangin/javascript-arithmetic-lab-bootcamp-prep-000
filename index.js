@@ -25,6 +25,7 @@ function makeInt(n) {
   parseInt('nonsense', 10)
 }
 function makeInt(n) {
+ if(parseInt('n'))
   return parseInt('n', 10)
 }
 function makeInt(n) {
