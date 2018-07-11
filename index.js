@@ -19,5 +19,9 @@ function dec(n) {
   return n;
 }
 function makeInt(n) {
+  parseInt('474')
+}
+
+function makeInt(n) {
   parseInt('nonsense', 10)
 }
