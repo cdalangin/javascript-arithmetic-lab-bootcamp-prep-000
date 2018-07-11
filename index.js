@@ -34,6 +34,6 @@ function makeInt(n) {
   if (isNaN(parsed)===parsed) { 
   return 0 }
   if(parseInt("nonsense", 10)===nonsense) {
-  return NaN }
+  return 'NaN' }
   }
 }
