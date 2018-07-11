@@ -28,7 +28,6 @@ function makeInt(n) {
   parseInt('n', 10);
   return n;
 }
-var n=0x2328
 function makeInt(n) {
   parseInt('n');
   return 0;
