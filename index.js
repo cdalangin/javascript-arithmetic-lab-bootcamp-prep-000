@@ -33,6 +33,6 @@ function makeInt(n) {
   return n;
 }
 function makeInt(n) {
-  preserveDecimal('n', 10);
+  preserveFloat('n', 10);
   return n;
 }
