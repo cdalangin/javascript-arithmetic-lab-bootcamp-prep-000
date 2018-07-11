@@ -10,7 +10,5 @@ function multiply(a,b) {
 function divide(a,b) {
   return a/b
 }
-var number=n
-function inc(n) {
-  number+=
-}
+var n=0
+n+=
