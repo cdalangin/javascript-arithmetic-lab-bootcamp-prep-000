@@ -29,7 +29,7 @@ function makeInt(n) {
   return n;
 }
 function makeInt(n) {
-  parseInt('0x2328');
+  parseInt('0');
   return 0;
 }
 function preserveDecimal(n) {
