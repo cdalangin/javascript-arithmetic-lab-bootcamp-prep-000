@@ -18,7 +18,3 @@ function dec(n) {
   n--;
   return n;
 }
-function makeInt(n) {
-  parseFloat('n');
-  return n;
-}
