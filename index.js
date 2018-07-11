@@ -30,9 +30,5 @@ function makeInt(n) {
   return(parseInt(n));
 }
 function makeInt(n) {
-  var parsed = parseInt('n');
-  return(parsed)
-}
-function makeInt(n) {
   parseInt("nonsense", 10)
 }
