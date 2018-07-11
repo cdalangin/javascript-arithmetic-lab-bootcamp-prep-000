@@ -31,10 +31,9 @@ function makeInt(n) {
 }
 function makeInt(n) {
   var parsed = parseInt('n', 0);
-  if (isNaN(parsed)) { 
+  if (isNaN(parsed)===parsed) { 
   return 0 }
-  if(parseInt("nonsense", 10)) {
+  if(parseInt("nonsense", 10)===nonsense) {
   return NaN }
   }
-  return parsed
 }
