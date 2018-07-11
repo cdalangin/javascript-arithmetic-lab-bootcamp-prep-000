@@ -33,6 +33,6 @@ function makeInt(n) {
   return(parseInt(n));
 }
 function makeInt(n) {
-  parseInt("OeO");
+  parseInt(n);
   return(parseInt(n));
 }
