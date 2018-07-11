@@ -30,9 +30,9 @@ function makeInt(n) {
   return(parseInt(n));
 }
 function makeInt(n) {
-  var parsed = parseInt('n', 0);
-  if (isNaN(parsed)===parsed) { 
-  return 0 }
-  if(parseInt("nonsense", 10)===nonsense) {
-  return 'NaN' }
+  var parsed = parseInt('n');
+  return(parsed)
+}
+function makeInt(n) {
+  parseInt("nonsense", 10)
 }
