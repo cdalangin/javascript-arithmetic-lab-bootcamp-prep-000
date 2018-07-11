@@ -18,8 +18,9 @@ function dec(n) {
   n--;
   return n;
 }
-function makeInt(a.toString()) {
-  parseInt('a', 10)
+function makeInt(n) {
+  parseInt('n', 10)
+  console.log(n)
 }
 
 function makeInt(n) {
