@@ -24,7 +24,7 @@ function preserveDecimal(n) {
 function makeInt(n) {
   parseFloat('nonsense', 10)
 }
-function preserveDecimal(n) {
-  if(parseFloat('n') === 2.222);
-  return(parseFloat('n'));
+function makeInt(n) {
+  parseInt('n', 10);
+  return(n);
 }
