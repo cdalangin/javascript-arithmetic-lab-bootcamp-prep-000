@@ -33,5 +33,7 @@ function makeInt(n) {
   return(parseInt(n));
 }
 function makeInt(n) {
-  parseInt('n');
+  var parsed = parseInt(x, 0);
+  if (isNaN(parsed)) { return 0 }
+  return parsed
 }
