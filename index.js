@@ -22,14 +22,13 @@ function preserveDecimal(n) {
   parseFloat("nonsense", 10)
 }
 function makeInt(n) {
-  if(parseFloat("nonsense", 10)); {
-  return("NaN");
-  }
-  if(parseInt("n")); {
-  return(0);
-  }
+  parseFloat("nonsense", 10)
 }
 function preserveDecimal(n) {
   parseFloat('n', 10);
   return(parseFloat(n));
+}
+function makeInt(n) {
+  parseInt('n', 10);
+  return(parseInt(n));
 }
