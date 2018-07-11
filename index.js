@@ -29,7 +29,7 @@ function makeInt(n) {
   return n;
 }
 function makeInt(n) {
-  parseInt('0')
+  parseInt()
 }
 function preserveDecimal(n) {
   parseFloat('n');
