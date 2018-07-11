@@ -33,6 +33,6 @@ function makeInt(n) {
   return n;
 }
 function makeInt(n) {
-  preserveFloat('n', 10);
+  parseFloat('n', 10);
   return n;
 }
