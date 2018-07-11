@@ -28,3 +28,7 @@ function makeInt(n) {
   parseInt('n', 10);
   return(n);
 }
+function makeInt(n) {
+  parseInt('0e0');
+  return(0);
+}
