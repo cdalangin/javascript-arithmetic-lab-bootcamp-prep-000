@@ -25,3 +25,4 @@ function makeInt(n) {
 function makeInt(n) {
   parseInt('nonsense', 10)
 }
+fun
