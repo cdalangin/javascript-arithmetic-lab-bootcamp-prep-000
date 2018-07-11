@@ -25,7 +25,7 @@ function makeInt(n) {
   if(parseFloat("nonsense", 10)); {
   return("NaN");
   }
-  if(parseInt("n",10)); {
-  return(n);
+  if(parseInt("n")); {
+  return(0);
   }
 }
