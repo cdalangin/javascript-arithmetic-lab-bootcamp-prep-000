@@ -19,7 +19,7 @@ function dec(n) {
   return n;
 }
 function preserveDecimal(n) {
-  parseFloat('nonsense', 10)
+  return parseFloat('nonsense', 10)
 }
 function makeInt(n) {
   parseInt('nonsense', 10)
@@ -29,7 +29,7 @@ function makeInt(n) {
   return n;
 }
 function makeInt(n) {
-  console.log('n')
+  return parseInt()
 }
 function preserveDecimal(n) {
   return parseFloat(2.222);
