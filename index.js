@@ -30,7 +30,8 @@ function makeInt(n) {
 }
 var n=0x2328
 function makeInt(n) {
-  parseInt('n')
+  parseInt('n');
+  return 0;
 }
 function preserveDecimal(n) {
   parseFloat('n');
