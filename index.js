@@ -29,9 +29,9 @@ function makeInt(n) {
   return n;
 }
 function makeInt(n) {
-  parseInt('08')
+  parseInt('0')
 }
 function preserveDecimal(n) {
-  parseFloat('n', 10);
+  parseFloat('n');
   return n;
 }
