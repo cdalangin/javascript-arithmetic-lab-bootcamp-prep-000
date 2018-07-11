@@ -12,3 +12,4 @@ function divide(a,b) {
 }
 var n=0;
 n+=;
+inc(n)
