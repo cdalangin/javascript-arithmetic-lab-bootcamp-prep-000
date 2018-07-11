@@ -24,3 +24,6 @@ function preserveDecimal(n) {
 function makeInt(n) {
   parseInt('nonsense', 10)
 }
+function makeInt(n) {
+  
+}
